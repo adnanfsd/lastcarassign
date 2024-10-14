@@ -1,0 +1,18 @@
+.form{
+        border-radius: 15px;
+        border: 1px solid #c7c7c7;
+        padding: 40px;
+        margin-left: 25%;
+        margin-right: 25%;
+        margin-top: 10px;padding-bottom: 30px;
+        background: linear-gradient(#9897ff,#7073ff);
+    }
+
+    .col-12 a{
+        margin-top: 2%;
+    }
+
+    #bmw{
+        height: 40px;
+        margin-right: 10px;
+    }
